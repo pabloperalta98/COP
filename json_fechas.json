@@ -1,0 +1,1017 @@
+[
+  {
+    "k": 1,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 8,
+    "fecha": 16
+  },
+  {
+    "k": 2,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 8,
+    "fecha": 17
+  },
+  {
+    "k": 3,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 8,
+    "fecha": 19
+  },
+  {
+    "k": 4,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 8,
+    "fecha": 20
+  },
+  {
+    "k": 5,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 8,
+    "fecha": 21
+  },
+  {
+    "k": 6,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 8,
+    "fecha": 23
+  },
+  {
+    "k": 7,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 8,
+    "fecha": 24
+  },
+  {
+    "k": 8,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 8,
+    "fecha": 26
+  },
+  {
+    "k": 9,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 8,
+    "fecha": 27
+  },
+  {
+    "k": 10,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 8,
+    "fecha": 28
+  },
+  {
+    "k": 11,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 8,
+    "fecha": 30
+  },
+  {
+    "k": 12,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 8,
+    "fecha": 31
+  },
+  {
+    "k": 13,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 2
+  },
+  {
+    "k": 14,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 3
+  },
+  {
+    "k": 15,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 4
+  },
+  {
+    "k": 16,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 9
+  },
+  {
+    "k": 17,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 10
+  },
+  {
+    "k": 18,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 11
+  },
+  {
+    "k": 19,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 16
+  },
+  {
+    "k": 20,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 17
+  },
+  {
+    "k": 21,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 18
+  },
+  {
+    "k": 22,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 9,
+    "fecha": 20
+  },
+  {
+    "k": 23,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 9,
+    "fecha": 21
+  },
+  {
+    "k": 24,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 23
+  },
+  {
+    "k": 25,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 24
+  },
+  {
+    "k": 26,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 25
+  },
+  {
+    "k": 27,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 9,
+    "fecha": 27
+  },
+  {
+    "k": 28,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 9,
+    "fecha": 28
+  },
+  {
+    "k": 29,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 9,
+    "fecha": 30
+  },
+  {
+    "k": 30,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 1
+  },
+  {
+    "k": 31,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 2
+  },
+  {
+    "k": 32,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 7
+  },
+  {
+    "k": 33,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 8
+  },
+  {
+    "k": 34,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 9
+  },
+  {
+    "k": 35,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 14
+  },
+  {
+    "k": 36,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 15
+  },
+  {
+    "k": 37,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 16
+  },
+  {
+    "k": 38,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 10,
+    "fecha": 18
+  },
+  {
+    "k": 39,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 10,
+    "fecha": 19
+  },
+  {
+    "k": 40,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 21
+  },
+  {
+    "k": 41,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 22
+  },
+  {
+    "k": 42,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 23
+  },
+  {
+    "k": 43,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 28
+  },
+  {
+    "k": 44,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 29
+  },
+  {
+    "k": 45,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 10,
+    "fecha": 30
+  },
+  {
+    "k": 46,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 11,
+    "fecha": 4
+  },
+  {
+    "k": 47,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 11,
+    "fecha": 5
+  },
+  {
+    "k": 48,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 11,
+    "fecha": 6
+  },
+  {
+    "k": 49,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 11,
+    "fecha": 8
+  },
+  {
+    "k": 50,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 11,
+    "fecha": 9
+  },
+  {
+    "k": 51,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 12,
+    "fecha": 20
+  },
+  {
+    "k": 52,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 12,
+    "fecha": 21
+  },
+  {
+    "k": 53,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 12,
+    "fecha": 27
+  },
+  {
+    "k": 54,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 12,
+    "fecha": 28
+  },
+  {
+    "k": 55,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 3
+  },
+  {
+    "k": 56,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 4
+  },
+  {
+    "k": 57,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 6
+  },
+  {
+    "k": 58,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 7
+  },
+  {
+    "k": 59,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 8
+  },
+  {
+    "k": 60,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 10
+  },
+  {
+    "k": 61,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 11
+  },
+  {
+    "k": 62,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 13
+  },
+  {
+    "k": 63,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 14
+  },
+  {
+    "k": 64,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 15
+  },
+  {
+    "k": 65,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 17
+  },
+  {
+    "k": 66,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 18
+  },
+  {
+    "k": 67,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 20
+  },
+  {
+    "k": 68,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 21
+  },
+  {
+    "k": 69,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 22
+  },
+  {
+    "k": 70,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 24
+  },
+  {
+    "k": 71,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 25
+  },
+  {
+    "k": 72,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 27
+  },
+  {
+    "k": 73,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 28
+  },
+  {
+    "k": 74,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 1,
+    "fecha": 29
+  },
+  {
+    "k": 75,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 1,
+    "fecha": 31
+  },
+  {
+    "k": 76,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 2,
+    "fecha": 1
+  },
+  {
+    "k": 77,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 3
+  },
+  {
+    "k": 78,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 4
+  },
+  {
+    "k": 79,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 5
+  },
+  {
+    "k": 80,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 2,
+    "fecha": 7
+  },
+  {
+    "k": 81,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 2,
+    "fecha": 8
+  },
+  {
+    "k": 82,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 10
+  },
+  {
+    "k": 83,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 11
+  },
+  {
+    "k": 84,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 12
+  },
+  {
+    "k": 85,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 17
+  },
+  {
+    "k": 86,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 18
+  },
+  {
+    "k": 87,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 19
+  },
+  {
+    "k": 88,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 24
+  },
+  {
+    "k": 89,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 25
+  },
+  {
+    "k": 90,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 2,
+    "fecha": 26
+  },
+  {
+    "k": 91,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 2,
+    "fecha": 28
+  },
+  {
+    "k": 92,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 3,
+    "fecha": 1
+  },
+  {
+    "k": 93,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 3
+  },
+  {
+    "k": 94,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 4
+  },
+  {
+    "k": 95,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 5
+  },
+  {
+    "k": 96,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 10
+  },
+  {
+    "k": 97,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 11
+  },
+  {
+    "k": 98,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 12
+  },
+  {
+    "k": 99,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 17
+  },
+  {
+    "k": 100,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 18
+  },
+  {
+    "k": 101,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 19
+  },
+  {
+    "k": 102,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 3,
+    "fecha": 21
+  },
+  {
+    "k": 103,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 3,
+    "fecha": 22
+  },
+  {
+    "k": 104,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 24
+  },
+  {
+    "k": 105,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 25
+  },
+  {
+    "k": 106,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 26
+  },
+  {
+    "k": 107,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 3,
+    "fecha": 28
+  },
+  {
+    "k": 108,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 3,
+    "fecha": 29
+  },
+  {
+    "k": 109,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 3,
+    "fecha": 31
+  },
+  {
+    "k": 110,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 1
+  },
+  {
+    "k": 111,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 2
+  },
+  {
+    "k": 112,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 4,
+    "fecha": 4
+  },
+  {
+    "k": 113,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 4,
+    "fecha": 5
+  },
+  {
+    "k": 114,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 14
+  },
+  {
+    "k": 115,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 15
+  },
+  {
+    "k": 116,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 16
+  },
+  {
+    "k": 117,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 21
+  },
+  {
+    "k": 118,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 22
+  },
+  {
+    "k": 119,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 23
+  },
+  {
+    "k": 120,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 4,
+    "fecha": 25
+  },
+  {
+    "k": 121,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 4,
+    "fecha": 26
+  },
+  {
+    "k": 122,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 28
+  },
+  {
+    "k": 123,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 29
+  },
+  {
+    "k": 124,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 4,
+    "fecha": 30
+  },
+  {
+    "k": 125,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 5,
+    "fecha": 2
+  },
+  {
+    "k": 126,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 5,
+    "fecha": 3
+  },
+  {
+    "k": 127,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 5
+  },
+  {
+    "k": 128,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 6
+  },
+  {
+    "k": 129,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 7
+  },
+  {
+    "k": 130,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 12
+  },
+  {
+    "k": 131,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 13
+  },
+  {
+    "k": 132,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 14
+  },
+  {
+    "k": 133,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 19
+  },
+  {
+    "k": 134,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 20
+  },
+  {
+    "k": 135,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 21
+  },
+  {
+    "k": 136,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 5,
+    "fecha": 23
+  },
+  {
+    "k": 137,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 5,
+    "fecha": 24
+  },
+  {
+    "k": 138,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 26
+  },
+  {
+    "k": 139,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 27
+  },
+  {
+    "k": 140,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 5,
+    "fecha": 28
+  },
+  {
+    "k": 141,
+    "dia": "viernes",
+    "finde": 1,
+    "mes": 6,
+    "fecha": 2
+  },
+  {
+    "k": 142,
+    "dia": "sabado",
+    "finde": 1,
+    "mes": 6,
+    "fecha": 3
+  },
+  {
+    "k": 143,
+    "dia": "domingo",
+    "finde": 1,
+    "mes": 6,
+    "fecha": 4
+  },
+  {
+    "k": 144,
+    "dia": "martes",
+    "finde": 0,
+    "mes": 6,
+    "fecha": 6
+  },
+  {
+    "k": 145,
+    "dia": "miercoles",
+    "finde": 0,
+    "mes": 6,
+    "fecha": 7
+  }
+]

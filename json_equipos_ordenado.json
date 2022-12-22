@@ -1,0 +1,122 @@
+[
+  {
+    "equipo": "Athletic Club",
+    "posicion": 8,
+    "valor_mercado": 22605,
+    "aforo": 53289
+  },
+  {
+    "equipo": "Atletico de Madrid",
+    "posicion": 3,
+    "valor_mercado": 6618,
+    "aforo": 68456
+  },
+  {
+    "equipo": "CA Osasuna",
+    "posicion": 10,
+    "valor_mercado": 10845,
+    "aforo": 23576
+  },
+  {
+    "equipo": "Cadiz CF",
+    "posicion": 17,
+    "valor_mercado": 678,
+    "aforo": 21094
+  },
+  {
+    "equipo": "Elche CF",
+    "posicion": 13,
+    "valor_mercado": 7298,
+    "aforo": 33732
+  },
+  {
+    "equipo": "FC Barcelona",
+    "posicion": 2,
+    "valor_mercado": 7371,
+    "aforo": 99354
+  },
+  {
+    "equipo": "Getafe CF",
+    "posicion": 15,
+    "valor_mercado": 20868,
+    "aforo": 16800
+  },
+  {
+    "equipo": "Girona FC",
+    "posicion": 20,
+    "valor_mercado": 3805,
+    "aforo": 11286
+  },
+  {
+    "equipo": "Rayo Vallecano",
+    "posicion": 12,
+    "valor_mercado": 672,
+    "aforo": 15105
+  },
+  {
+    "equipo": "RC Celta de Vigo",
+    "posicion": 11,
+    "valor_mercado": 120,
+    "aforo": 29000
+  },
+  {
+    "equipo": "RCD Espanyol",
+    "posicion": 14,
+    "valor_mercado": 1316,
+    "aforo": 40500
+  },
+  {
+    "equipo": "RCD Mallorca",
+    "posicion": 16,
+    "valor_mercado": 7415,
+    "aforo": 20500
+  },
+  {
+    "equipo": "Real Betis Balompie",
+    "posicion": 5,
+    "valor_mercado": 259,
+    "aforo": 59378
+  },
+  {
+    "equipo": "Real Madrid CF",
+    "posicion": 1,
+    "valor_mercado": 77075,
+    "aforo": 81044
+  },
+  {
+    "equipo": "Real Sociedad",
+    "posicion": 6,
+    "valor_mercado": 37695,
+    "aforo": 39500
+  },
+  {
+    "equipo": "Real Valladolid CF",
+    "posicion": 19,
+    "valor_mercado": 6665,
+    "aforo": 27618
+  },
+  {
+    "equipo": "Sevilla FC",
+    "posicion": 4,
+    "valor_mercado": 385,
+    "aforo": 43883
+  },
+  {
+    "equipo": "UD Almeria",
+    "posicion": 18,
+    "valor_mercado": 6375,
+    "aforo": 15274
+  },
+  {
+    "equipo": "Valencia CF",
+    "posicion": 9,
+    "valor_mercado": 3106,
+    "aforo": 48600
+  },
+  {
+    "equipo": "Villarreal CF",
+    "posicion": 7,
+    "valor_mercado": 4089,
+    "aforo": 23500
+  }
+]
